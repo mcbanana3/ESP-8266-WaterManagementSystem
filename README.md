@@ -12,6 +12,9 @@ This repository contains the codebase for a water level monitoring and control s
 - **IFTTT Integration:** Utilizes IFTTT webhooks to trigger events such as sending messages and lighting up an LED when the water level rises above 30 units.
 - **Clean and Modular Codebase:** Well-organized code with comments for easy understanding and modification.
 
+![image](https://github.com/mcbanana3/ESP-8266/assets/146920196/abb162bf-d552-490f-9e83-a0d8fbac18fd)
+
+
 **Repository Structure:**
 - **/src:** Contains the source code for ESP-8266 modules.
   - **/ultrasonic_sensor_module:** Code for reading data from the ultrasonic sensor.
