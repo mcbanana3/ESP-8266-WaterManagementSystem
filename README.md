@@ -1,8 +1,3 @@
-# ESP-8266
-Certainly! Here's a description for your GitHub repository:
-
----
-
 **ESP-8266 Water Level Monitoring and Control System**
 
 **Owner:** Aryan Yalavarthi
@@ -37,5 +32,3 @@ Ensure proper safety precautions and adherence to local regulations when deployi
 Feel free to contribute, report issues, or suggest improvements to enhance the functionality of the water level monitoring and control system.
 
 ---
-
-Feel free to modify the description according to the specific details of your project or any additional features you may have implemented.
